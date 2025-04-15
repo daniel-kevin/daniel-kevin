@@ -6,6 +6,7 @@ I'm **Daniel Kevin Alexander**, currently pursuing studies at Udayana University
 -🌱 I’m currently learning Laravel and Vue.js <br>
 -📫 How to reach me: danielkevin179@gmail.com <br>
 <p align="center">
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
